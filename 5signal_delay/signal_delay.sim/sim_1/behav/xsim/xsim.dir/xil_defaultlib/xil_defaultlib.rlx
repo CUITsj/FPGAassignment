@@ -1,0 +1,10 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/FPGAassignment/signal_delay/signal_delay.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+F:/FPGAassignment/signal_delay/signal_delay.srcs/sim_1/new/tb_fifo_top.v,1607516552,verilog,,,,tb_fifo_top,,,,,,,,
+F:/FPGAassignment/signal_delay/signal_delay.srcs/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v,1607521066,verilog,,F:/FPGAassignment/signal_delay/signal_delay.srcs/sources_1/new/fifo_rd.v,,fifo_generator_0,,,,,,,,
+F:/FPGAassignment/signal_delay/signal_delay.srcs/sources_1/new/fifo_rd.v,1607522287,verilog,,F:/FPGAassignment/signal_delay/signal_delay.srcs/sources_1/new/fifo_top.v,,fifo_rd,,,,,,,,
+F:/FPGAassignment/signal_delay/signal_delay.srcs/sources_1/new/fifo_top.v,1607516890,verilog,,F:/FPGAassignment/signal_delay/signal_delay.srcs/sources_1/new/fifo_wr.v,,fifo_top,,,,,,,,
+F:/FPGAassignment/signal_delay/signal_delay.srcs/sources_1/new/fifo_wr.v,1607522019,verilog,,F:/FPGAassignment/signal_delay/signal_delay.srcs/sim_1/new/tb_fifo_top.v,,fifo_wr,,,,,,,,

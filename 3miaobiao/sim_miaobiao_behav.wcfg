@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="sim_miaobiao_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="sim_miaobiao" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="173400000001fs"></ZoomEndTime>
+      <Cursor1Time time="100005000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="171"></NameColumnWidth>
+      <ValueColumnWidth column_width="118"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="5" />
+   <wave_markers>
+      <marker time="5000000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/sim_miaobiao/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_miaobiao/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_miaobiao/second_01" type="array">
+      <obj_property name="ElementShortName">second_01[3:0]</obj_property>
+      <obj_property name="ObjectShortName">second_01[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_miaobiao/second_1" type="array">
+      <obj_property name="ElementShortName">second_1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">second_1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/sim_miaobiao/second_10" type="array">
+      <obj_property name="ElementShortName">second_10[3:0]</obj_property>
+      <obj_property name="ObjectShortName">second_10[3:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/FPGAassignment/edge_detection/edge_detection.srcs/sources_1/new/edge_detection.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module edge_detection
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/FPGAassignment/edge_detection/edge_detection.srcs/sim_1/new/sim_edge_detection.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_edge_detection

@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/FPGAassignment/fuzhitest/fuzhitest.srcs/sources_1/new/fuzhitest.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fuzhitest
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/FPGAassignment/fuzhitest/fuzhitest.srcs/sim_1/new/sim_fuzhitest.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_fuzhitest
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/FPGAassignment/fuzhitest/fuzhitest.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

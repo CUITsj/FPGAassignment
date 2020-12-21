@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../signal_delay.srcs/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v" \
+"../../../../signal_delay.srcs/sources_1/new/fifo_rd.v" \
+"../../../../signal_delay.srcs/sources_1/new/fifo_top.v" \
+"../../../../signal_delay.srcs/sources_1/new/fifo_wr.v" \
+"../../../../signal_delay.srcs/sim_1/new/tb_fifo_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

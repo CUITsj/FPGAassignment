@@ -1,0 +1,15 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 33bba8cd5dc74584897792ea4ea81ec1 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_measure_f_behav xil_defaultlib.tb_measure_f xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 27 for port 'freq' [F:/FPGAassignment/measure_f/measure_f.srcs/sim_1/new/sim_measure_f.v:52]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "F:/FPGAassignment/measure_f/measure_f.srcs/sources_1/new/measure_f.v" Line 22. Module measure_f doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.measure_f
+Compiling module xil_defaultlib.tb_measure_f
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_measure_f_behav
